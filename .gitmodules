@@ -1,0 +1,9 @@
+[submodule "Suscripciones-Encuesta-Back"]
+	path = Suscripciones-Encuesta-Back
+	url = https://github.com/ayelengarcia/suscripciones_backend_railway
+[submodule "Suscripciones-encuesta-front"]
+	path = Suscripciones-encuesta-front
+	url = https://github.com/ayelengarcia/suscripciones-front-netifly
+[submodule "Suscripciones-Encuesta-Server"]
+	path = Suscripciones-Encuesta-Server
+	url = https://github.com/ayelengarcia/suscripciones_backend_railway
